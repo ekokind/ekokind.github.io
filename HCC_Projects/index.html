@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Base UI</title>
+<audio id="low_fuel">
+	<source src="audio/low_fuel.wav" type="audio/wav" preload="auto">
+</audio>
+<audio id="audreset">
+	<source src="audio/eyes_on_a_starfish.mp3" type="audio/mpeg" preload="auto">
+</audio>
+<audio id="alert-unks">
+	<source src="audio/alert-unks.mp3" type="audio/mpeg" preload="auto">
+</audio>
+<audio id="disable-loc">
+	<source src="audio/dissable_loc.mp3" type="audio/mpeg" preload="auto">
+</audio>
+<script>
+	function sleep(milliseconds) {
+	  const date = Date.now();
+	  let currentDate = null;
+	  do {
+		currentDate = Date.now();
+	  } while (currentDate - date < milliseconds);
+	}
+</script>
+<script>
+	function changeImage_reset_off() {
+		var img = document.getElementById("image");
+		img.src="images/base_POV_flat_speed-elev.png";
+		return false;
+	}
+</script>
+<script>
+	function changeImage_reset_on() {
+		var img = document.getElementById("image");
+		img.src="images/base_POV_flat_speed-elev_LOC-ON.png";
+		return false;
+	}
+</script>
+<script>
+	function changeImage_lowfuel() {
+		var img = document.getElementById("image");
+		img.src="images/lowfuel.png";
+		return false;
+	}
+</script>
+<script>
+	function changeImage_loc_on_no_conn() {
+		var img = document.getElementById("image");
+		img.src="images/loc-on_no-connections.png";
+		return false;
+	}
+</script>
+<script>
+	function ai_speaking() {
+		var img = document.getElementById("image");
+		img.src="images/AI-speaking-turn-loc-off.png";
+		return false;
+	}
+</script>
+<script>
+	function ai_speaking_altUnks() {
+		var img = document.getElementById("image");
+		img.src="images/AI-speaking-alert-to-unks.png";
+		return false;
+	}
+</script>
+<script>
+	function ai_listening() {
+		var img = document.getElementById("image");
+		img.src="images/AI-listen-after-turn-loc-on.png";
+		return false;
+	}
+</script>
+<script>
+	function changeImage_locOff(){
+		var img = document.getElementById("image");
+		img.src="images/op-loc-off-result.png";
+		return false;
+	}
+</script>
+<script>
+	function op_loc_off_all(){
+		sleep(5000); //this is time for the operator to speak
+		ai_speaking();
+		document.getElementById('disable-loc').play();
+		sleep(5000);
+		//changeImage_locOff();
+		//ai_listening();
+		//changeImage_locOff();
+	}
+</script>
+
+<link href="newsheet.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<header>Group 6 - UI Scenario Walkthrough</header>
+<br>
+<div class="row"> 
+  <div class="column">
+  	<img id="image" src="images/base_POV_flat_speed-elev.png" width="100%" height="100%" alt=""/>
+  </div>
+  <div class="column">
+  	<button class="button" id="reset-loc-off" onclick="changeImage_reset_off();">Reset Location Off Scenario</button>
+  	<button class="button" id="reset-loc-on" onclick="changeImage_reset_on();">Reset Location On Scenario</button>
+  	<br><br>
+  	<button class="button" id="lowfuel" onclick="document.getElementById('low_fuel').play(); changeImage_lowfuel();">Low Fuel Scenario</button>
+  	<br><br>
+  	<button class="button" id="op-loc-off" onclick="op_loc_off_all(); ">Operator turns location off Scenario (lightly broken)</button>
+  	<br><br>
+  	<button class="button" id="loc-on_no-connections.png" onclick="changeImage_loc_on_no_conn();">Loc on, no connections Scenario</button>
+  	<br><br>
+  	<button class="button" id="" onclick="document.getElementById('alert-unks').play(); ai_speaking_altUnks(); changeImage_withEnt();">Location on, AI detects unknown entities on radar</button>
+  	<br><br>
+  	<br><br>
+
+  </div>
+</div>
+
+</body>
+</html>
