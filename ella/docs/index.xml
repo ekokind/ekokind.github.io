@@ -1,0 +1,72 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ella Kokinda</title>
+		<link>https://ella.dev/</link>
+		<description>Recent content on Ella Kokinda</description>
+		<generator>Hugo 0.80.0 -- gohugo.io</generator>
+		<language>en-us</language>
+		<managingEditor>mail@example.org (Some Author)</managingEditor>
+		<webMaster>mail@example.org (Some Author)</webMaster>
+		<copyright>Ella Kokinda — All rights reserved.</copyright>
+		<atom:link href="https://ella.dev/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Data</title>
+			<link>https://ella.dev/data/</link>
+			<pubDate>Mon, 18 Jan 2021 16:23:43 -0500</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://ella.dev/data/</guid>
+			<description>&lt;p&gt;&lt;em&gt;&lt;h2&gt;Picking at Lint&lt;/h2&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ella.dev/static/scraper.py&#34;&gt;Python Scraper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ella.dev/static/combiner.py&#34;&gt;Python Data Combiner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ella.dev/static/cockroach-merged.csv&#34;&gt;Cockroach DB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ella.dev/static/railed-marged.csv&#34;&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+		</item>
+		<item>
+			<title>Home</title>
+			<link>https://ella.dev/home/</link>
+			<pubDate>Mon, 18 Jan 2021 16:21:47 -0500</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://ella.dev/home/</guid>
+			<description>&lt;H3&gt;About Me&lt;/H3&gt;
+![image text](/static/me2.jpg)
+&lt;p&gt;My name is Ella and I am a PhD student at Clemson University&amp;rsquo;s Zucker Family Gradute Center in Charleston, South Carolina under Dr. Paidge Rodeghero. In 2018, I decided it was time to pursue a graduate degree in the evenings while maintaining my full-time industry position. In 2020, the opportunity came up to switch from a masters to PhD program full time &amp;ndash; so here I am!&lt;/p&gt;
+&lt;p&gt;When not studying, writing, or attending class, I enjoy playing video games with a tight-knit group of individuals that have stayed together since undergraduate days. Shout-out to all my Moira and Orisa mains in Overwatch! I also own a small laser-etching business that I run out of a spare room, it has been an absolute joy to share my work with others and motivate others to create.&lt;/p&gt;
+&lt;H3&gt;News&lt;/H3&gt;</description>
+		</item>
+		<item>
+			<title>Education</title>
+			<link>https://ella.dev/education/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://ella.dev/education/</guid>
+			<description>&lt;H3&gt;PhD Student, Computer Science&lt;/H3&gt;
+&lt;b&gt;August 2019 - Current&lt;/b&gt;
+Clemson University, Charleston, SC
+&lt;p&gt;Joined Human Factors Software Engineering Team Fall 2020 under &lt;a href=&#34;http://paigerodeghero.com/&#34;&gt; Dr. Paige Rodeghero&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;H3&gt;Bachelor of Science, Computer Science&lt;/H3&gt;
+&lt;b&gt;August 2013 - May 2017&lt;/b&gt;
+&lt;p&gt;Clemson University, Clemson, SC&lt;/p&gt;
+</description>
+		</item>
+		<item>
+			<title>Education</title>
+			<link>https://ella.dev/extra/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://ella.dev/extra/</guid>
+			<description>&lt;H3&gt;PhD Student, Computer Science&lt;/H3&gt;
+&lt;b&gt;August 2019 - Current&lt;/b&gt;
+Clemson University, Charleston, SC
+&lt;p&gt;Joined Human Factors Software Engineering Team Fall 2020 under &lt;a href=&#34;http://paigerodeghero.com/&#34;&gt; Dr. Paige Rodeghero&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;H3&gt;Bachelor of Science, Computer Science&lt;/H3&gt;
+&lt;b&gt;August 2013 - May 2017&lt;/b&gt;
+&lt;p&gt;Clemson University, Clemson, SC&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>

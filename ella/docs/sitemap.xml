@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ella.dev/data/</loc>
+    <lastmod>2021-01-18T16:23:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/home/</loc>
+    <lastmod>2021-01-18T16:21:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/extra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/tags/</loc>
+  </url>
+  
+</urlset>
