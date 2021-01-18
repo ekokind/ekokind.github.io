@@ -3,26 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://ella.dev/</loc>
     <lastmod>2020-12-25T17:41:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ella.dev/posts/my-first-post/</loc>
     <lastmod>2020-12-25T17:41:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ella.dev/posts/</loc>
     <lastmod>2020-12-25T17:41:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ella.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ella.dev/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ella.dev/tags/</loc>
   </url>
   
 </urlset>

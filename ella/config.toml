@@ -1,4 +1,168 @@
-baseURL = "http://example.org/"
+baseURL = "https://ella.dev"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-classic"
+title = "Ella Kokinda"
+theme = "slick"
+
+# Will appear below the footer links with a © sign and the current year
+copyright = "Ella Kokinda — All rights reserved."
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true               # Allow html (needed for some shortcodes)
+    [markup.highlight]
+        codeFences = true               # Enable highlighting inside codefences
+        guessSyntax = true              # Highlight code without language tag
+        noClasses = false               # Use the theme's style sheet
+
+canonifyURLs = true
+preserveTaxonomyNames = true
+
+# Configure pagination
+paginate = 10
+paginatePath = "page"
+
+[params]
+    # Site subtitle (not shown if commented out or set to false)
+    #subtitle = "Just another site"
+
+    # Site description
+    description = "Ella Kokinda, PhD Student Clemson University"
+
+    # Favicon file (relative to baseURL - place below static or assets folder)
+    favicon = "favicon.png"
+    # Custom css file (relative to baseURL - place below static or assets folder)
+    css = "custom.css"
+
+    # Define formatting of dates
+    # (optional, falls back to RFC822 format if not set)
+    # For reference to date and time formatting, see:
+    # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+    # Make sure to set showMetaDates to true to see any dates
+    dateFmt = "Mon, 02 Jan 2006 15:04:05 MST"
+
+    # Customize the text of the 404 page here
+    errorPageText = "There's nothing to see here, please move along!"
+
+    # Header with title/subtitle can be disabled here.
+    # (If you disable this, add some link on the index page inside menu.main,
+    #  otherwise your visitors will get confused and lost...)
+    showNavHeader = true
+
+    # Decide if only summaries are shown on the main page or the full content
+    showFullContent = true
+
+    # If false no pagination is shown when there is nothing to paginate
+    showEmptyPagination = true
+
+    # If false the dates for the posts are not shown
+    showMetaDates = false
+
+    # If false the taxonomy links for the posts are not shown
+    showMetaLinks = true
+
+    # Uses Hugo internal templates if set
+    opengraph = false
+    schema = false
+    twitter_cards = false
+
+    #ShowDatesOnPosts = false
+
+
+# Define all supported taxonomies (add series to the default)
+[taxonomies]
+    tags = "tags"
+    categories = "categories"
+    series = "series"
+
+
+[author]
+    name = "Some Author"
+    email = "mail@example.org"
+
+
+#[services.rss]
+#    # limit the length of the rss feed (default: unlimited)
+#    limit = 0
+
+
+[menu]
+
+    # Configure main menu entries (header)
+    # Currently set to list all taxonomies and posts
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        title = "All tags"
+        url = "/home/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "education"
+        name = "Education"
+        title = "Education"
+        url = "/education/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        title = "All tags"
+        url = "/publications/"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "CV"
+        name = "CV"
+        title = "All tags"
+        url = "/CV/"
+        weight = 4
+    
+    [[menu.main]]
+        identifier = "data"
+        name = "Data"
+        title = "All tags"
+        url = "/data/"
+        weight = 5
+    
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        title = "All tags"
+        url = "/contact/"
+        weight = 6
+
+    # Define the entries for post metadata
+    # Identifiers should match with the taxonomy entries
+    [[menu.meta]]
+        identifier = "categories"
+        name = "Categories"
+        weight = 1
+    [[menu.meta]]
+        identifier = "series"
+        name = "Series"
+        weight = 2
+    [[menu.meta]]
+        identifier = "tags"
+        name = "Tags"
+        weight = 3
+
+
+    # Add some footer links to your likings
+    [[menu.footer]]
+        name = "GitHub"
+        title = "GitHub Profile"
+        url = "https://github.com/ekokind"
+        weight = 1
+
+    [[menu.footer]]
+        name = "LinkedIn"
+        title = "LinkedIn Profile"
+        url = "https://www.linkedin.com/in/ella-kokinda-9106a7ba/"
+        weight = 2
+
+    [[menu.footer]]
+        name = "Twitter"
+        title = "Twitter Feed"
+        url = "https://twitter.com/Ninjabrer"
+        weight = 3
