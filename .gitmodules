@@ -1,0 +1,6 @@
+[submodule "ella/themes/ananke"]
+	path = ella/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "ella/hugo-classic"]
+	path = ella/themes/hugo-classic
+	url = https://github.com/goodroot/hugo-classic.git
