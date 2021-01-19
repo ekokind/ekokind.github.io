@@ -8,15 +8,20 @@
 		<managingEditor>mail@example.org (Some Author)</managingEditor>
 		<webMaster>mail@example.org (Some Author)</webMaster>
 		<copyright>Ella Kokinda — All rights reserved.</copyright>
-		<lastBuildDate>Fri, 25 Dec 2020 17:41:34 -0500</lastBuildDate>
+		<lastBuildDate>Mon, 18 Jan 2021 16:21:47 -0500</lastBuildDate>
 		<atom:link href="https://ella.dev/posts/index.xml" rel="self" type="application/rss+xml" />
 		<item>
-			<title>My First Post</title>
-			<link>https://ella.dev/posts/my-first-post/</link>
-			<pubDate>Fri, 25 Dec 2020 17:41:34 -0500</pubDate>
+			<title>Home</title>
+			<link>https://ella.dev/posts/home/</link>
+			<pubDate>Mon, 18 Jan 2021 16:21:47 -0500</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">https://ella.dev/posts/my-first-post/</guid>
-			<description></description>
+			<guid isPermaLink="true">https://ella.dev/posts/home/</guid>
+			<description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://ella.dev/static/me2.jpg&#34; alt=&#34;image text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My name is Ella and I am a PhD student at Clemson University&amp;rsquo;s Zucker Family Gradute Center in Charleston, South Carolina under Dr. Paidge Rodeghero. In 2018, I decided it was time to pursue a graduate degree in the evenings while maintaining my full-time industry position. In 2020, the opportunity came up to switch from a masters to PhD program full time &amp;ndash; so here I am!&lt;/p&gt;
+&lt;p&gt;When not studying, writing, or attending class, I enjoy playing video games with a tight-knit group of individuals that have stayed together since undergraduate days. Shout-out to all my Moira and Orisa mains in Overwatch! I also own a small laser-etching business that I run out of a spare room, it has been an absolute joy to share my work with others and motivate others to create.&lt;/p&gt;
+&lt;h3 id=&#34;news&#34;&gt;News&lt;/h3&gt;
+</description>
 		</item>
 	</channel>
 </rss>
