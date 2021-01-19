@@ -91,12 +91,12 @@ paginatePath = "page"
 
     # Configure main menu entries (header)
     # Currently set to list all taxonomies and posts
-    [[menu.main]]
-        identifier = "home"
-        name = "Home"
-        title = "All tags"
-        url = "/home/"
-        weight = 1
+    #[[menu.main]]
+    #    identifier = "home"
+    #    name = "Home"
+    #    title = "All tags"
+    #    url = "/home/"
+    #    weight = 1
 
     [[menu.main]]
         identifier = "education"
