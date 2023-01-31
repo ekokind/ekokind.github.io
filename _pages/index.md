@@ -2,28 +2,19 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Home
 ---
 
-## What is it?
+## Hello!
 
-{% include components/intro.md %}
+My name is Ella and I am a PhD student at Clemson University's Zucker Family Gradute Center in Charleston, South Carolina under Dr. Paidge Rodeghero. In 2018, I decided it was time to pursue a graduate degree in the evenings while maintaining my full-time industry position. In 2020, the opportunity came up to switch from a masters to PhD program full time -- so here I am! 
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+When not studying, writing, or attending class, I enjoy playing video games with a tight-knit group of individuals that have stayed together since undergraduate days. Shout-out to all my Moira and Orisa mains in Overwatch! I also own a small laser-etching business that I run out of a spare room, it has been an absolute joy to share my work with others and motivate others to create. 
 
-## How to use it
-
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
-
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
-
-<hr />
 
 ### Recent Posts
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:1 %}
 {% include components/post-card.html %}
 {% endfor %}
 
