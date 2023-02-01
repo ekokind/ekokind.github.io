@@ -42,10 +42,74 @@ _Instructor/Researcher - 2021_
 * Developed course materials and content for 2D game design using Godot
 * Lead 3 days of camp instruction
 
-## Publications
+## Professional Service
 
-### 2022
-* Moster, M., , Kokinda, E. , Re, M., Dominic, J., Lehmann,J., Begel, A., Rodeghero, P. “ ‘Can You Help Me?’
-An Experience Report of Teamwork in a Game Coding Camp for Autistic High School Students”, to appear in
-Proc. of the 44th IEEE/ACM International Conference on Software Engineering - Software Engineering
-Education and Training Track (ICSE SEET ‘22), Pittsburgh, PA, USA, May 
+**Naval Information Warfare Center (NIWC) Atlantic (Formerly SPAWAR), June 2015 – 2020**
+
+_Scientist, NRL affiliate at NIWC Atlantic 2020_
+* front end development for NRL program using Ruby
+
+_Scientist, STAC 2020_
+* reviewing proposal submissions for STAC chair
+
+_Scientist, Science and Technology Co-primary Investigator 2019-_
+* Primary investigator in research working with a formally verifiable language, Haskell,
+and embedded systems in various research and development efforts
+
+
+_Scientist, Science and Technology Mentee 2018-_
+* Research mentee working with a formally verifiable language, Haskell in various research
+and development efforts
+
+_Scientist, Mission Assurance Cyber Security 2017-_
+* Datacenter and Cloud Hosting Services (DC2HS) Transition and Integration Cyber
+Security Specialist and Test Team Lead working with various Navy commands (NIWC,
+NAVAIR, NAVSEA, NIWC-PAC) to transition mission systems into the Charleston
+datacenter or to cloud services. Interfacing with customer teams to ensure the Risk
+Management Framework (RMF) process is followed. Test team experience validating
+customer STIG lists for systems and orchestrating (Independent Verification and
+Validation) IV&V test events. DC2HS Division A&A experience with CCI validation
+input for datacenter core service packages and template creation
+
+_Scientist, Student Trainee 2015-_
+* Working with programming, quality assurance, and security of system admin tokens for
+the Department of Defense
+*●* Implementing Amazon Web Services cloud environment into government systems,
+validation testing
+
+## University Service
+**CECAS Graduate Student Advisory Board 2022**
+* School of Computing Representative for Charleston Campus
+* Executive Board - Vice President
+
+**Tour Guide and Ambassador 2017-Pres**
+_Zucker Family Graduate Center, Clemson University 2019-Pres_
+* Campus ambassador for interested students in attending graduate school at the Charleston Zucker Family
+GRaduate center in Charleston, SC
+_School of Computing, Clemson University 2017_
+* Tour guide for the School of Computing for interested/newly accepted students to inform them about the
+computer science program and walk them around the facility
+
+**IT Desk Technician 2015-2017**
+_Clemson University College of Engineering, Clemson University_
+* IT technician and service desk personnel for Clemson College of Engineering troubleshooting customer’s
+various operating system and software issues
+
+## Service and Volunteering
+**ICSE 2021 Student Volunteer**
+* SV for CloudIntelligence at ICSE 2021
+
+**Conference Paper/Journal Reviews**
+* CSCW 2022
+
+**Subcommittee Paper/Journal Reviews**
+* ACM ESEC/FSE 2021
+* ICPC 2021
+
+## Invited Conferences and Convenstions
+**Women in Indusry Day - 2022**
+* nominated by faculty and represented Clemson University 
+
+## Awards and Honors
+
+**Upsilon Pi Epsilon Induction** 2020
