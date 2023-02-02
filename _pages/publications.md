@@ -7,10 +7,10 @@ title: Publications
 
 ### 2023
 **Kokinda, E.**, Rodeghero, P. "Streaming Software Development: Accountability, Community, and Learning", to appear in The Journal of Systems and Software (2023) [Pre-print PDF](/theme/pdfs/Streaming_JSS_2023.pdf) |
-[Link to Pre-print on arXiv]()
+[Link to Pre-print on arXiv](https://arxiv.org/abs/2302.00169)
 
 **Kokinda, E.**, Moster, M., Dominic, J., Rodeghero, P. "Under the Bridge: Trolling and the Challenges of Recruiting Software Developers for Empirical Research Studies", to appear in Proc. of the 45th IEEE/ACM International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER '23), Melbourne, Australia, 17-19 May 2023. [Pre-print PDF](/theme/pdfs/Under-bridge-ICSE2023-NEIR.pdf) |
-[Link to Pre-print on arXiv]()
+[Link to Pre-print on arXiv](https://arxiv.org/abs/2302.00174)
 
 *Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", to appear in Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023.
 
