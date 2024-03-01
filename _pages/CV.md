@@ -110,6 +110,7 @@ various operating system and software issues
 * SV for CloudIntelligence at ICSE 2021
 
 **Conference Paper/Journal Reviews**
+* ASEE 2024
 * CSCW 2022
 
 **Subcommittee Paper/Journal Reviews**
@@ -117,9 +118,11 @@ various operating system and software issues
 * ICPC 2021
 
 ## Invited Conferences and Convenstions
-**Women in Indusry Day - 2022**
+**Women in Indusry Day - 2022, 2023**
 * nominated by faculty and represented Clemson University 
 
 ## Awards and Honors
+**Churchill A. Carter ‘52 Endowed Memorial Fellowship - 2023 - 2024**
 
+**Zucker Graduate Education Center PhD Grant - 2023**
 **Upsilon Pi Epsilon Induction** 2020
