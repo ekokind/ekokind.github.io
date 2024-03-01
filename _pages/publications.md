@@ -6,7 +6,7 @@ title: Publications
 ---
 
 ### 2024
-Moster, M., Kokinda, E., Boyer, D. M., Rodeghero, P. "Experiences with Summer Camp Communication via Discord", to appear in Proc. of the 46th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '24), Lisbon, Portugal, April 14-20, 2024. 
+Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summer Camp Communication via Discord", to appear in Proc. of the 46th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '24), Lisbon, Portugal, April 14-20, 2024. 
 
 ### 2023
 **Kokinda, E.**, Rodeghero, P. "Streaming Software Development: Accountability, Community, and Learning", The Journal of Systems and Software (2023) [Pre-print PDF](/theme/pdfs/Streaming_JSS_2023.pdf) |
