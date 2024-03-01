@@ -9,8 +9,7 @@ title: CV & Resume
 
 ## Research Interests
 
-Software development communities, human factors in software engineering, developer habits, collaboration systems,
-online learning
+Software developmnet live streaming, software communities, developer habits, collaboration systems, online learning, informal learning
 
 ## Education
 **Ph.D Student in Computer Science** May 2022
@@ -32,6 +31,11 @@ Clemson University, Clemson, SC
 _Human Factors in Software Engineering Lab, Clemson School of Computing_
 
 **Computer Game Coding Camp 2021-Pres**
+_Instructor/Researcher - 2023
+* Developed course materials and content for 2D game design using Microsoft MakeCode
+* Video creation and editing for supplimental camp videos
+* developing research protocols
+
 _Instructor/Researcher - 2022_
 * Developed course materials and content for 2D game design using Godot
 * video creation and editing for supplimental camp videos
@@ -78,7 +82,13 @@ the Department of Defense
 validation testing
 
 ## University Service
-**CECAS Graduate Student Advisory Board 2022**
+**Charleston Graduate Student Association (CGSA) 2023-present**
+* Co-founding member and president of a graduate student led organization for social and professional development
+
+**CECAS ASPIRE Gradute Peer Mentor 2023-present**
+* guiding new graduate students in their first year of school in areas of research, netowrking, and work/life balance
+
+**CECAS Graduate Student Advisory Board 2022-present**
 * School of Computing Representative for Charleston Campus
 * Executive Board - Vice President
 
