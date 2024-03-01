@@ -125,4 +125,5 @@ various operating system and software issues
 **Churchill A. Carter ‘52 Endowed Memorial Fellowship - 2023 - 2024**
 
 **Zucker Graduate Education Center PhD Grant - 2023**
+
 **Upsilon Pi Epsilon Induction** 2020
