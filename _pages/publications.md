@@ -6,6 +6,15 @@ title: Publications
 ---
 
 ### 2024
+**Kokinda, E.**, Moster, M., Rodeghero, P., Boyer, D. M. (2024, May), "Informal Learning Opportunities - Neurodiversity, Self-Efficacy, and Motivation for Programming Interest", to be presented at  International Conference on Computer Supported Education 2024 (CSEDU 24), Angers, France. 
+pre-print coming soon
+
+**Kokinda, E.**, Rodeghero, P., Boyer, D. M. (2024, June), "WIP: Streamer and Viewer Interactions in Software and Game Development Live Streams ", to be presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 
+pre-print coming soon
+
+**Kokinda, E.**, Moster, M., Rodeghero, P., Boyer, D. M. (2024, June), "Compiling Resilience: A Study on First-Generation Women Pursuing Computing Degrees", to be presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 
+pre-print coming soon
+
 Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summer Camp Communication via Discord", to appear in Proc. of the 46th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '24), Lisbon, Portugal, April 14-20, 2024. 
 
 ### 2023
