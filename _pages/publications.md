@@ -20,11 +20,12 @@ Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summe
 ### 2023
 **Kokinda, E.**, Rodeghero, P. "Streaming Software Development: Accountability, Community, and Learning", The Journal of Systems and Software (2023) [PDF](/theme/pdfs/Streaming_JSS_2023.pdf) |
 [arXiv](https://arxiv.org/abs/2302.00169)
+
 **Kokinda, E.**, Moster, M., Dominic, J., Rodeghero, P. "Under the Bridge: Trolling and the Challenges of Recruiting Software Developers for Empirical Research Studies", Proc. of the 45th IEEE/ACM International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER '23), Melbourne, Australia, 17-19 May 2023. [Paper PDF](/theme/pdfs/Under-bridge-ICSE2023-NEIR.pdf) |
-[arXiv](https://arxiv.org/abs/2302.00174)  | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10173903) | [Presentation Slides]()
+[arXiv](https://arxiv.org/abs/2302.00174)  | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10173903) | [Presentation Slides](ICSE_2023_NEIR_Online-Recruitment.pptx.pdf)
 
 
-*Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023. [Paper PDF]() | [Presentation Slides]()
+*Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023. [Paper PDF](2023_CSCW_BothSidesoftheStory.pdf) | [Presentation Slides](2023_CSCW_BothSidesPresentation.pdf)
 
 \* denotes co-first authorship
 
