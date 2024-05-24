@@ -10,7 +10,7 @@ title: Publications
 [Pre-print PDF](/theme/pdfs/CSEDU_24___Informal_Learning.pdf)
 
 **Kokinda, E.**, Rodeghero, P., Boyer, D. M. (2024, June), "WIP: Streamer and Viewer Interactions in Software and Game Development Live Streams ", to be presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 
-pre-print coming soon
+[Pre-print PDF](/theme/pdfs/2024_ASEE_Stream-Content-Analysis.pdf)
 
 **Kokinda, E.**, Moster, M., Rodeghero, P., Boyer, D. M. (2024, June), "Compiling Resilience: A Study on First-Generation Women Pursuing Computing Degrees", to be presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 
 pre-print coming soon
