@@ -22,11 +22,11 @@ Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summe
 [arXiv](https://arxiv.org/abs/2302.00169)
 
 **Kokinda, E.**, Moster, M., Dominic, J., Rodeghero, P. "Under the Bridge: Trolling and the Challenges of Recruiting Software Developers for Empirical Research Studies", Proc. of the 45th IEEE/ACM International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER '23), Melbourne, Australia, 17-19 May 2023. [Paper PDF](/theme/pdfs/Under-bridge-ICSE2023-NEIR.pdf) |
-[Presentation](/theme/pdfs/2ICSE_2023_NEIR_Online-Recruitment.pptx.pdf)
+[Presentation](/theme/pdfs/ICSE_2023_NEIR_Online-Recruitment.pptx.pdf)
 
 
-*Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023. [Paper PDF](/theme/pdfs/22023_CSCW_BothSidesoftheStory.pdf) | 
-[Presentation](/theme/pdfs/22023_CSCW_BothSidesPresentation.pdf)
+*Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023. [Paper PDF](/theme/pdfs/2023_CSCW_BothSidesoftheStory.pdf) | 
+[Presentation](/theme/pdfs/2023_CSCW_BothSidesPresentation.pdf)
 
 \* denotes co-first authorship
 
