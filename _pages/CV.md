@@ -9,20 +9,23 @@ title: CV & Resume
 
 ## Research Interests
 
-Software developmnet live streaming, software communities, developer habits, collaboration systems, online learning, informal learning
+Software development live streaming, software communities, developer habits, collaboration systems, online learning, informal learning
 
 ## Education
 **Ph.D Student in Computer Science** May 2022
-Clemson University, Clemson, SC & Clemson University Zucker Gradute Education Center, North Charleston, SC
+
+Clemson University, Clemson, SC & Clemson University Zucker Graduate Education Center, North Charleston, SC
 Human Factors in Software Engineering Lab
 Advisor: Dr. Paige Rodeghero
 
 **Master of Science in Computer Science** May 2022
-Clemson University, Clemson, SC & Clemson University Zucker Gradute Education Center, North Charleston, SC
+
+Clemson University, Clemson, SC & Clemson University Zucker Graduate Education Center, North Charleston, SC
 Human Factors in Software Engineering Lab
 Advisor: Dr. Paige Rodeghero
 
 **Bachelor of Science in Computer Science** May 2017
+
 Clemson University, Clemson, SC
 
 ## Research Experience
