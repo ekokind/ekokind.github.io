@@ -12,7 +12,7 @@ title: CV & Resume
 Software development live streaming, software communities, developer habits, collaboration systems, online learning, informal learning
 
 ## Education
-**Ph.D Student in Computer Science** May 2022
+**Ph.D Student in Computer Science** May 2022 - present
 
 Clemson University, Clemson, SC & Clemson University Zucker Graduate Education Center, North Charleston, SC
 Human Factors in Software Engineering Lab
@@ -33,17 +33,23 @@ Clemson University, Clemson, SC
 **Graduate Research Assistant 2021-Pres**
 _Human Factors in Software Engineering Lab, Clemson School of Computing_
 
-**Computer Game Coding Camp 2021-Pres**
-_Instructor/Researcher - 2023
+**Educating Autistic Software Engineer (EdASE) Videogame Game Coding Camp 2021-Pres**
+_Camp co-leader/Researcher - 2024_
+* Leading daily camp activities, managing camper teams, assisting instructors 
+* developing research protocols and conducting continuing research 
+
+
+_Instructor/Researcher - 2023_
 * Developed course materials and content for 2D game design using Microsoft MakeCode
-* Video creation and editing for supplimental camp videos
+* Video creation and editing for supplemental camp videos
 * developing research protocols
+* Publication [Informal Learning Opportunities - Neurodiversity, Self-Efficacy, and Motivation for Programming Interest](https://ella.dev/theme/pdfs/CSEDU_24___Informal_Learning.pdf)
 
 _Instructor/Researcher - 2022_
 * Developed course materials and content for 2D game design using Godot
-* video creation and editing for supplimental camp videos
+* video creation and editing for supplemental camp videos
 * Lead 2 days of camp instruction
-* lead team of 3 campers developing their own game - facilitating discussion, feature creation, code and art feedback
+* Led a team of 3 campers developing their own game - facilitating discussion, feature creation, code and art feedback
 
 _Instructor/Researcher - 2021_
 * Developed course materials and content for 2D game design using Godot
@@ -54,7 +60,7 @@ _Instructor/Researcher - 2021_
 **Naval Information Warfare Center (NIWC) Atlantic (Formerly SPAWAR), June 2015 – 2020**
 
 _Scientist, NRL affiliate at NIWC Atlantic 2020_
-* front end development for NRL program using Ruby
+* Front-end development for NRL program using Ruby
 
 _Scientist, STAC 2020_
 * reviewing proposal submissions for STAC chair
@@ -86,25 +92,25 @@ validation testing
 
 ## University Service
 **Charleston Graduate Student Association (CGSA) 2023-present**
-* Co-founding member and president of a graduate student led organization for social and professional development
+* Co-founding member and president of a graduate student-led organization for social and professional development
 
 **CECAS ASPIRE Gradute Peer Mentor 2023-present**
-* guiding new graduate students in their first year of school in areas of research, netowrking, and work/life balance
+* guiding new graduate students in their first year of school in areas of research, networking, and work/life balance
 
 **CECAS Graduate Student Advisory Board 2022-present**
 * School of Computing Representative for Charleston Campus
-* Executive Board - Vice President
+* Executive Board - Vice President 2022-2024
 
 **Tour Guide and Ambassador 2017-Pres**
 _Zucker Family Graduate Center, Clemson University 2019-Pres_
 * Campus ambassador for interested students in attending graduate school at the Charleston Zucker Family
-GRaduate center in Charleston, SC
+Graduate Center in Charleston, SC
 _School of Computing, Clemson University 2017_
 * Tour guide for the School of Computing for interested/newly accepted students to inform them about the
 computer science program and walk them around the facility
 
 **IT Desk Technician 2015-2017**
-_Clemson University College of Engineering, Clemson University_
+_Clemson University College of Engineering_
 * IT technician and service desk personnel for Clemson College of Engineering troubleshooting customer’s
 various operating system and software issues
 
@@ -120,8 +126,8 @@ various operating system and software issues
 * ACM ESEC/FSE 2021
 * ICPC 2021
 
-## Invited Conferences and Convenstions
-**Women in Indusry Day - 2022, 2023**
+## Invited Conferences and Conventions
+**Women in Industry Day - 2022, 2023**
 * nominated by faculty and represented Clemson University 
 
 ## Awards and Honors
