@@ -13,4 +13,4 @@ We talked a lot about mentorship and how my personal journey to graduate school 
 [I highly encourage everyone to check out Adam's streams on Twitch; they are as entertaining as they are informative!](https://www.twitch.tv/adamlearnslive)
 
 
-![Poster Presentation Ready!](/theme/img/interview.jpg){: width="250" }
+![Checkout the interview!](/theme/img/interview.jpg){: width="250" }
