@@ -13,4 +13,4 @@ We talked a lot about mentorship and how my personal journey to graduate school 
 [I highly encourage everyone to check out Adam's streams on Twitch; they are as entertaining as they are informative!](https://www.twitch.tv/adamlearnslive)
 
 
-![Botanical Gardens Concrete Frog](/theme/img/portland2024_prsn.jpg){: width="250" }
+![Botanical Gardens Concrete Frog](theme/img/InterviewWithAdam.jpg){: width="250" }
