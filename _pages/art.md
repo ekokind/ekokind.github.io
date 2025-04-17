@@ -163,14 +163,6 @@ function openModal(img) {
   modal.style.display = "block";
   modalImg.src = img.src;
   captionText.innerHTML = img.alt;
-
-  // Get title and date from the parent elements
-  var galleryItem = img.closest('.gallery-item');
-  var title = galleryItem.querySelector('.gallery-title').innerText;
-  var date = galleryItem.querySelector('.gallery-date').innerText;
-  var status = galleryItem.querySelector('.gallery-status').innerText;
-  
-  captionText.innerHTML = title + " (" + date + ") - " + status;
 }
 
 function closeModal() {
