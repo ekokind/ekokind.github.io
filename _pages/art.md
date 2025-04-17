@@ -139,6 +139,16 @@ title: Art
 </style>
 
 <div class="gallery">
+
+  <div class="gallery-item">
+    <img src="theme/img/girldinner.jpg" alt="Girl Dinner -- Chicken nuggets, polymer clay mac n cheese and peas" class="gallery-image" onclick="openModal(this)">
+    <div class="gallery-info">
+      <h3 class="gallery-title">PurpleCoral_01</h3>
+      <p class="gallery-medium">Acrylic Fiber, ceramic, clay</p>
+      <p class="gallery-date">January 2025 - "Spaces: In Spaces" Solo Show</p>
+      <span class="gallery-status for-sale">$150</span>
+    </div>
+  </div>
   
   <div class="gallery-item">
     <img src="theme/img/purpcoral.jpg" alt="Purple Coral" class="gallery-image" onclick="openModal(this)">
@@ -149,6 +159,17 @@ title: Art
       <span class="gallery-status for-sale">$125</span>
     </div>
   </div>
+
+  <div class="gallery-item">
+    <img src="theme/img/whitecoral.jpg" alt="White Coral" class="gallery-image" onclick="openModal(this)">
+    <div class="gallery-info">
+      <h3 class="gallery-title">Bleached_01</h3>
+      <p class="gallery-medium">wool, beading, cotton embroidery</p>
+      <p class="gallery-date">January 2024</p>
+      <span class="gallery-status for-sale">$165</span>
+    </div>
+  </div>
+  
   <!-- Art Item 1 -->
   <div class="gallery-item">
     <img src="theme/img/artsfest_2023-1.jpg" alt="Rainbow Corals" class="gallery-image" onclick="openModal(this)">
