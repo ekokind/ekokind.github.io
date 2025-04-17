@@ -155,7 +155,7 @@ title: Art
       <h3 class="gallery-title">PurpleCoral_01</h3>
       <p class="gallery-medium">wool, beading, cotton embroidery</p>
       <p class="gallery-date">January 2024</p>
-      <span class="gallery-status not-for-sale">$125</span>
+      <span class="gallery-status for-sale">$125</span>
     </div>
   </div>
   
