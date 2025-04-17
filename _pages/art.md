@@ -42,7 +42,12 @@ title: Art
   font-size: 16px;
   margin: 5px 0;
 }
-
+  
+.gallery-medium {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
 .gallery-date {
   color: #666;
   font-size: 14px;
@@ -141,6 +146,16 @@ title: Art
       <h3 class="gallery-title">Rainbow Corals</h3>
       <p class="gallery-date">2023</p>
       <span class="gallery-status for-sale">Sold</span>
+    </div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="theme/img/purpcoral.jpg" alt="Purple Coral" class="gallery-image" onclick="openModal(this)">
+    <div class="gallery-info">
+      <h3 class="gallery-title">PurpleCoral_01</h3>
+      <p class="gallery-medium">wool, beading, cotton embroidery</p>
+      <p class="gallery-date">January 2024</p>
+      <span class="gallery-status not-for-sale">$125</span>
     </div>
   </div>
   
