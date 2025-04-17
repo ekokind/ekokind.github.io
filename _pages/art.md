@@ -145,7 +145,7 @@ title: Art
     <div class="gallery-info">
       <h3 class="gallery-title">Rainbow Corals</h3>
       <p class="gallery-date">2023</p>
-      <span class="gallery-status for-sale">Sold</span>
+      <span class="gallery-status not-for-sale">Sold</span>
     </div>
   </div>
 
