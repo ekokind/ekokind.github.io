@@ -78,12 +78,13 @@ title: Art
   height: 100%;
   background-color: rgba(0,0,0,0.8);
 }
-
 .modal-content {
   margin: auto;
   display: block;
-  max-width: 80%;
-  max-height: 80%;
+  max-width: 90%;
+  max-height: 80vh;
+  object-fit: contain; /* This preserves aspect ratio */
+  cursor: default; /* Keep default cursor over the image */
 }
 
 .modal-caption {
@@ -103,6 +104,22 @@ title: Art
   font-weight: bold;
   transition: 0.3s;
   cursor: pointer;
+  z-index: 1001; /* Ensure close button is above other elements */
+}
+
+.close:hover {
+  color: #bbb;
+}
+
+/* Add instructions text */
+.modal-instructions {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  color: #ccc;
+  font-size: 14px;
+  text-align: center;
 }
 
 .close:hover {
