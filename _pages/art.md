@@ -139,16 +139,7 @@ title: Art
 </style>
 
 <div class="gallery">
-  <!-- Art Item 1 -->
-  <div class="gallery-item">
-    <img src="theme/img/artsfest_2023-1.jpg" alt="Rainbow Corals" class="gallery-image" onclick="openModal(this)">
-    <div class="gallery-info">
-      <h3 class="gallery-title">Rainbow Corals</h3>
-      <p class="gallery-date">2023</p>
-      <span class="gallery-status not-for-sale">Sold</span>
-    </div>
-  </div>
-
+  
   <div class="gallery-item">
     <img src="theme/img/purpcoral.jpg" alt="Purple Coral" class="gallery-image" onclick="openModal(this)">
     <div class="gallery-info">
@@ -156,6 +147,16 @@ title: Art
       <p class="gallery-medium">wool, beading, cotton embroidery</p>
       <p class="gallery-date">January 2024</p>
       <span class="gallery-status for-sale">$125</span>
+    </div>
+  </div>
+  <!-- Art Item 1 -->
+  <div class="gallery-item">
+    <img src="theme/img/artsfest_2023-1.jpg" alt="Rainbow Corals" class="gallery-image" onclick="openModal(this)">
+    <div class="gallery-info">
+      <h3 class="gallery-title">Rainbow Corals</h3>
+      <p class="gallery-medium">wool, beading, cotton embroidery</p>
+      <p class="gallery-date">May 2023</p>
+      <span class="gallery-status not-for-sale">Sold</span>
     </div>
   </div>
   
