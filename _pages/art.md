@@ -143,7 +143,7 @@ title: Art
   <div class="gallery-item">
     <img src="theme/img/girldinner.jpg" alt="Girl Dinner -- Chicken nuggets, polymer clay mac n cheese and peas" class="gallery-image" onclick="openModal(this)">
     <div class="gallery-info">
-      <h3 class="gallery-title">PurpleCoral_01</h3>
+      <h3 class="gallery-title">Girl Dinner, Monday</h3>
       <p class="gallery-medium">Acrylic Fiber, ceramic, clay</p>
       <p class="gallery-date">January 2025 - "Spaces: In Spaces" Solo Show</p>
       <span class="gallery-status for-sale">$150</span>
