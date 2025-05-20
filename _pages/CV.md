@@ -5,7 +5,8 @@ narrow: true
 title: CV & Resume
 ---
 
-* [Kokinda CV Download](/theme/pdfs/CV_2023.pdf)
+* [Kokinda CV Download](/theme/pdfs/CV_2025.pdf)
+* [Kokinda Resume Download](/theme/pdfs/resume_2025.pdf)
 
 ## Research Interests
 
