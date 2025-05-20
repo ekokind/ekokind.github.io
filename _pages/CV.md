@@ -9,15 +9,14 @@ title: CV & Resume
 
 ## Research Interests
 
-Software development live streaming, software communities, developer habits, collaboration systems, online learning, informal learning
+Software development live streaming, software communities, developer habits, online learning, informal learning
 
 ## Education
 **Ph.D Student in Computer Science** January 2021 - May 2025
 
-Clemson University, Clemson, SC & Clemson University Zucker Graduate Education Center, North Charleston, SC \
+* Clemson University, Clemson, SC & Clemson University Zucker Graduate Education Center, North Charleston, SC \
 Human Factors in Software Engineering Lab \
-Dissertation topic: Informal Learning in STEM education focusing on motivation and education within live streaming software and game developer communities
-
+* Dissertation topic: Informal Learning in STEM education, focusing on motivation and education within live streaming software and game developer communities
 
 **Master of Science in Computer Science** May 2022
 
@@ -29,25 +28,28 @@ Clemson University, Clemson, SC
 
 ## Research Experience
 
-**Graduate Research Assistant 2021-2025** \
-_Human Factors in Software Engineering Lab, Clemson School of Computing_
-
 **Educating Autistic Software Engineer (EdASE) Videogame Game Coding Camp 2021-2025**\
-_Camp co-leader/Researcher - 2024_
-* Leading daily camp activities, managing camper teams, assisting instructors 
-* developing research protocols and conducting continuing research 
-
-
-_Instructor/Researcher - 2021-2024_
-* Designed and developed online software programming learning experiences and course material for neurodiverse highschool students through 2D game design using Godot, Scratch, Discord, YouTube, Adobe Premiere, slide decks, and facilitator guidelines
-* Implemented iterative improvement process based on student feedback and learning analytics
-* Built instructor training materials and technical documentation to ensure consistent delivery
-*  Collaborated with cross-functional teams to ensure seamless platform functionality for educational programs
-* Managed evidence reporting and documentation for NSF grant requirements
-* Video creation and editing for camp teaching videos
-* developing research protocols
+_Instructor/Researcher - 2021-2025_
+* Analyzed existing research on software development learning outcomes to develop core learning objectives for camp curriculum.
+* Created and maintained software development curriculum, student materials, and instructor documentation for use over multiple years of camp, including instructor’s knowledge base of tools, processes, and procedures.
+* Developed and implemented architecture to measure student software development proficiency  baseline at the start of camp, and post-camp growth in support of research goals.
+* Facilitated post-camp student feedback surveys, self-assessments, lessons learned meetings, and leadership retrospectives to improve curriculum, tools, processes, and instructional methodology for future camps.
+* Communicated written and verbal reports on camp progression, student outcomes, and research to university leadership and federal funding sponsors.
 * Publication 2023 [Informal Learning Opportunities - Neurodiversity, Self-Efficacy, and Motivation for Programming Interest](https://ella.dev/theme/pdfs/CSEDU_24___Informal_Learning.pdf)
 * Led a team of 3 campers developing their own game - facilitating discussion, feature creation, code and art feedback
+
+
+**Instructor + Researcher 2024-2025** \
+* Designed course objectives, curriculum, and research questions for undergraduate computer science students
+* Scheduled and hosted regular classes for students to expand general and technical knowledge based on course objectives.
+* Documented course outcomes, including unforeseen events throughout the course, as a part of research artifacts. Applied lessons learned from analysis to drive continuous course improvement.
+
+
+**Graduate Research Assistant 2021-2025** \
+* Published research in two journals and four peer-reviewed conferences, and poster presentations
+* Conducted literature reviews and collected qualitative data for human subjects research
+
+
 
 ## Professional Service
 
