@@ -4,6 +4,10 @@ permalink: publications.html
 narrow: true
 title: Publications
 ---
+### 2025
+**Kokinda, E.**, Rodeghero, P., Boyer, D. M. “Experiences Using Live Streaming as an Informal Learning Tool in the Formal Classroom”, to be presented at 2025 ASEE Annual Conference & Exposition, Montreal, Quebec, Canada, 22-25 June 2025.
+
+**Kokinda, E.**, Boyer, D. M. "The Other Side of the Screen: Motivations to Watch and Engage in Software Development Live Streams", to be presented at 2025 Frontiers in Education, Nashville, Tennessee, 2-5 November 2025.
 
 ### 2024
 **Kokinda, E.**, Moster, M., Rodeghero, P., Boyer, D. M. (2024, May), "Informal Learning Opportunities - Neurodiversity, Self-Efficacy, and Motivation for Programming Interest", to be presented at  International Conference on Computer Supported Education 2024 (CSEDU 24), Angers, France. 
