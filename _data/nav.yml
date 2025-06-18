@@ -16,5 +16,9 @@
 - title: Posts
   href: list/posts.html
 
-- title: Participate
-  href: participate.html
+#- title: Participate
+#  href: participate.html
+
+- title: Projects
+  href: projects/projects.html
+
