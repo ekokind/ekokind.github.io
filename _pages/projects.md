@@ -1,6 +1,6 @@
 ---
 layout: defaults/project
-permalink: participate.html
+permalink: project.html
 narrow: true
 title: Projects
 ---
