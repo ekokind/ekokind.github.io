@@ -1,7 +1,8 @@
 ---
-layout: list
-title: Projects
+layout: defaults/projects
 permalink: /projects/
+narrow: true
+title: Projects
 ---
 
 <ul>
