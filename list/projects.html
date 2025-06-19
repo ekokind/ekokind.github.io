@@ -8,15 +8,21 @@ show_profile: true
 <div class="projects-grid">
   {% for project in site.projects %}
     <div class="project-card">
+      <!-- Debug information -->
+      <p><strong>Debug Info:</strong></p>
+      <p>Title: {{ project.title }}</p>
+      <p>Image: {{ project.image }}</p>
+      <p>Image Alt: {{ project.image_alt }}</p>
+      <p>Has image?: {% if project.image %}YES{% else %}NO{% endif %}</p>
+      
+      <!-- Your existing code -->
       {% if project.thumbnail or project.image %}
-        <img src="{{ project.thumbnail | default: project.image | relative_url }}" 
-             alt="{{ project.image_alt | default: project.title }}" 
+        <img src="{{ project.thumbnail | default: project.image | relative_url }}"
+             alt="{{ project.image_alt | default: project.title }}"
              class="project-thumbnail">
       {% endif %}
       <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
       <p>{{ project.excerpt | strip_html | truncate: 100 }}</p>
     </div>
-
-    <p>Image: {{ project.image }}</p>
   {% endfor %}
 </div>
