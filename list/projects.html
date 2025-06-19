@@ -16,5 +16,7 @@ show_profile: true
       <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
       <p>{{ project.excerpt | strip_html | truncate: 100 }}</p>
     </div>
+
+    <p>Image: {{ project.image }}</p>
   {% endfor %}
 </div>
