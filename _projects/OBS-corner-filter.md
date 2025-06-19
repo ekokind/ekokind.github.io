@@ -1,5 +1,7 @@
 ---
 title: OBS Corner Filter Documentation
+image: "theme/img/project-photos/glow.png"
+image_alt: "Example of OBS filter used on white background"
 ---
 
 # OBS Rounded Corner with Shadow and Glow Filter: Complete Guide & Tutorial
