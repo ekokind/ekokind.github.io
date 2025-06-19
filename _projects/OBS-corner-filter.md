@@ -6,17 +6,6 @@ title: OBS Corner Filter Documentation
 
 A professional-looking rounded corner effect for  OBS Studio streams and recordings. Perfect for webcam overlays, screen captures, and video sources. 
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Parameter Guide](#parameter-guide)
-- [Troubleshooting](#troubleshooting)
-- [Advanced Tips](#advanced-tips)
-- [FAQ](#faq)
-
 ## 🎯 Overview
 
 The **OBS Rounded Corners Shader Filter** is a custom HLSL shader that adds professional rounded corners, drop shadows, borders, and glow effects to any video source in OBS Studio. This filter is perfect for:
