@@ -5,11 +5,16 @@ permalink: default/projects.html
 show_profile: true
 ---
 
-{% for project in site.projects %}
-<div style="margin-bottom: 1.5em;">
-  {% if project.image %}
-    <img src="{{ project.image | relative_url }}" alt="{{ project.image_alt }}" style="max-width: 200px; display: block; margin-bottom: 0.5em;">
-  {% endif %}
-  <a href="{{ site.baseurl }}{{ project.url }}"><strong>{{ project.title }}</strong></a>
+<div class="projects-grid">
+  {% for project in site.projects %}
+    <div class="project-card">
+      {% if project.thumbnail or project.image %}
+        <img src="{{ project.thumbnail | default: project.image | relative_url }}" 
+             alt="{{ project.image_alt | default: project.title }}" 
+             class="project-thumbnail">
+      {% endif %}
+      <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <p>{{ project.excerpt | strip_html | truncate: 100 }}</p>
+    </div>
+  {% endfor %}
 </div>
-{% endfor %}
