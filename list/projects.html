@@ -5,6 +5,19 @@ permalink: default/projects.html
 show_profile: true
 ---
 
+<h1>Projects Debug</h1>
+<p>Number of projects found: {{ site.projects.size }}</p>
+<p>All collections: {{ site.collections | map: "label" | join: ", " }}</p>
+
+{% if site.projects.size > 0 %}
+  <h2>Projects found:</h2>
+  {% for project in site.projects %}
+    <p>- {{ project.path }}</p>
+  {% endfor %}
+{% else %}
+  <p>No projects found!</p>
+{% endif %}
+
 <div class="projects-grid">
   {% for project in site.projects %}
     <div class="project-card">

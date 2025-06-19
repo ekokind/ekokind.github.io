@@ -10,7 +10,7 @@ A professional-looking rounded corner effect for  OBS Studio streams and recordi
 
 <img src="{{ page.image | relative_url }}" 
      alt="{{ page.image_alt }}" 
-     style="max-width:300px; height:auto; display:block; margin: 1em auto;">">
+     style="max-width:500px; height:auto; display:block; margin: 1em auto;">">
 
 ## 🎯 Overview
 
