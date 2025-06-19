@@ -6,6 +6,10 @@ show_profile: true
 ---
 
 {% for project in site.projects %}
-- [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
+<div style="margin-bottom: 1.5em;">
+  {% if project.image %}
+    <img src="{{ project.image | relative_url }}" alt="{{ project.image_alt }}" style="max-width: 200px; display: block; margin-bottom: 0.5em;">
+  {% endif %}
+  <a href="{{ site.baseurl }}{{ project.url }}"><strong>{{ project.title }}</strong></a>
+</div>
 {% endfor %}
-
