@@ -66,3 +66,9 @@ h2[id]::before {
     }
 }
 
+pre, pre code {
+    background: #c48aeb; // or your preferred color
+    color: #222;         // optional: set text color for contrast
+    border-radius: 6px;  // optional: rounded corners
+    padding: 1em;        // optional: padding for readability
+}
