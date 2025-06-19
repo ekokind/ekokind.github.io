@@ -8,3 +8,9 @@ $purp: #57059b !default;
 $primary: $purp !default;
 
 $dark: $purp;
+
+// Override Bootstrap code styling
+$code-color: #e83e8c !default;              // Inline code text color
+$code-bg: #f8f8f8 !default;                 // Inline code background
+$pre-color: #212529 !default;               // Pre block text
+$pre-bg: #f8f8f8 !default;                  // Pre block background
