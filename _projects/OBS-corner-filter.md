@@ -8,7 +8,9 @@ image_alt: "Example of OBS filter used on white background"
 
 A professional-looking rounded corner effect for  OBS Studio streams and recordings. Perfect for webcam overlays, screen captures, and video sources. 
 
-<img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}" style="max-width:200px; height:auto; display:block; margin: 1em 0;">
+<img src="{{ page.image | relative_url }}" 
+     alt="{{ page.image_alt }}" 
+     style="max-width:300px; height:auto; display:block; margin: 1em auto;">">
 
 ## 🎯 Overview
 
