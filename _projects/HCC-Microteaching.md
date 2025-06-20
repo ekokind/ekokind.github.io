@@ -10,7 +10,7 @@ image_alt: ""
 This artifact is a microteaching lesson design for a course titled "Introduction to Human Computer Interaction". This is an upper-level undergraduate computer sciece, information technology, or human centered computing course. It includes course information, detailed lesson planning, learning objectives, assessments, and grading rubrics for a lesson on "Design and Interaction Principles."
 
 #### Original Course Design Document
-📄 [View Full HCI Course Design (PDF)](theme/pdfs/HCC-MTL.pdf)
+📄 [View Full HCI Course Design (PDF)](/theme/pdfs/HCC-MTL.pdf)
 
 ## Instructional Design Skills Demonstrated
 - **Bloom's Taxonomy Application**: Scaffolds from Remembering → Applying → Evaluating → Creating
