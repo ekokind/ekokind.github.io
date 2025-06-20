@@ -12,7 +12,9 @@ A professional-looking rounded corner effect for  OBS Studio streams and recordi
      alt="{{ page.image_alt }}" 
      style="max-width:500px; height:auto; display:block; margin: 1em auto;">
 
-### [📥 Link to Download Here](/theme/OBS-stuff/rounded_camera.effect)
+#### [📥 Link to Download Here](/theme/OBS-stuff/rounded_camera.effect) 
+
+#### 🎥 YouTube Walkthrough Coming Soon!
 
 ## 🎯 Overview
 
