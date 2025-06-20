@@ -12,6 +12,9 @@ This artifact is a microteaching lesson design for a course titled "Introduction
 #### Original Course Design Document
 📄 [View Full HCI Course Design (PDF)](/theme/pdfs/HCC-MTL.pdf)
 
+#### Preview Lesson Slides
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzbbE7Ogzoj__Fzkwk2arETEIgQ8dLbJPSZfVhI57IWdGI4OX3Y3r_vGyLHIAyFK0ewPrJNIIQDC_T/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Instructional Design Skills Demonstrated
 - **Bloom's Taxonomy Application**: Scaffolds from Remembering → Applying → Evaluating → Creating
 - **Measurable Outcomes**: Each objective uses specific, observable verbs (state, label, critique, conceptualize)
