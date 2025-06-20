@@ -1,0 +1,135 @@
+// OBS Rounded Corner Camera Shader - Standardized Values
+// Save this as a .shader file and use with OBS ShaderFilter plugin
+
+uniform float4x4 ViewProj;
+uniform texture2d image;
+uniform float elapsed_time;
+
+// Standardized parameters (0.1 to 5.0 range)
+uniform float corner_radius = 1.0;      // Corner roundness (0.1 = slight, 5.0 = very round)
+uniform float shadow_offset_x = 1.0;    // Shadow horizontal offset (0.1 = minimal, 5.0 = far)
+uniform float shadow_offset_y = 1.0;    // Shadow vertical offset (0.1 = minimal, 5.0 = far)
+uniform float shadow_blur = 2.0;        // Shadow blur amount (0.1 = sharp, 5.0 = very soft)
+uniform float shadow_opacity = 3.0;     // Shadow opacity (0.1 = faint, 5.0 = solid)
+uniform float4 shadow_color = {0.0, 0.0, 0.0, 1.0}; // Shadow color
+uniform float border_width = 0.5;       // Border width (0.1 = thin, 5.0 = thick)
+uniform float4 border_color = {1.0, 1.0, 1.0, 0.8}; // Border color
+uniform bool enable_glow = false;       // Enable glow effect
+uniform float glow_intensity = 2.0;     // Glow intensity (0.1 = subtle, 5.0 = bright)
+
+sampler_state textureSampler {
+    Filter    = Linear;
+    AddressU  = Clamp;
+    AddressV  = Clamp;
+};
+
+struct VertData {
+    float4 pos : POSITION;
+    float2 uv  : TEXCOORD0;
+};
+
+VertData VSDefault(VertData v_in)
+{
+    VertData vert_out;
+    vert_out.pos = mul(float4(v_in.pos.xyz, 1.0), ViewProj);
+    vert_out.uv  = v_in.uv;
+    return vert_out;
+}
+
+// Smooth distance function for rounded rectangle
+float sdRoundedBox(float2 p, float2 b, float r)
+{
+    float2 q = abs(p) - b + r;
+    return min(max(q.x, q.y), 0.0) + length(max(q, 0.0)) - r;
+}
+
+// Smooth step function for anti-aliasing
+float smoothEdge(float d, float width)
+{
+    return 1.0 - smoothstep(-width, width, d);
+}
+
+float4 PSDefault(VertData v_in) : TARGET
+{
+    float2 uv = v_in.uv;
+    float2 center = float2(0.5, 0.5);
+    float2 pos = uv - center;
+    
+    // Scale position to maintain aspect ratio
+    float aspect = 16.0 / 9.0; // Adjust based on your camera aspect ratio
+    pos.x *= aspect;
+    
+    // Define the rounded rectangle
+    float2 size = float2(0.4 * aspect, 0.4);
+    
+    // Convert standardized corner_radius (0.1-5.0) to actual radius
+    float actual_radius = (corner_radius / 5.0) * min(size.x, size.y);
+    
+    // Calculate distance to rounded rectangle
+    float dist = sdRoundedBox(pos, size, actual_radius);
+    
+    // Convert standardized shadow offsets (0.1-5.0) to actual offsets
+    float actual_shadow_x = (shadow_offset_x / 50.0); // 0.002 to 0.1 range
+    float actual_shadow_y = (shadow_offset_y / 50.0); // 0.002 to 0.1 range
+    
+    // Shadow calculation
+    float2 shadowPos = pos - float2(actual_shadow_x, actual_shadow_y);
+    float shadowDist = sdRoundedBox(shadowPos, size, actual_radius);
+    
+    // Convert standardized shadow blur (0.1-5.0) to actual blur
+    float actual_blur = (shadow_blur / 100.0); // 0.001 to 0.05 range
+    float shadowMask = smoothEdge(shadowDist, actual_blur);
+    
+    // Main shape mask
+    float mask = smoothEdge(dist, 0.002);
+    
+    // Convert standardized border width (0.1-5.0) to actual width
+    float actual_border = (border_width / 500.0); // 0.0002 to 0.01 range
+    
+    // Border calculation
+    float borderMask = 1.0;
+    if (actual_border > 0.0) {
+        float borderDist = sdRoundedBox(pos, size - actual_border, actual_radius - actual_border);
+        borderMask = smoothEdge(borderDist, 0.001);
+    }
+    
+    // Sample the camera texture
+    float4 color = image.Sample(textureSampler, uv);
+    
+    // Apply the rounded mask to the camera
+    color.a *= mask;
+    
+    // Create shadow with standardized opacity (0.1-5.0 converted to 0.02-1.0)
+    float actual_shadow_opacity = min(shadow_opacity / 5.0, 1.0);
+    float4 shadow = shadow_color;
+    shadow.a *= actual_shadow_opacity * shadowMask * (1.0 - mask);
+    
+    // Create border
+    float4 border = border_color;
+    border.a *= (mask - borderMask) * border_color.a;
+    
+    // Combine shadow, camera, and border
+    float4 result = shadow;
+    result = lerp(result, color, color.a);
+    result = lerp(result, border, border.a);
+    
+    // Optional glow effect with standardized intensity (0.1-5.0 converted to 0.02-1.0)
+    if (enable_glow) {
+        float actual_glow_intensity = min(glow_intensity / 5.0, 1.0);
+        float glowDist = sdRoundedBox(pos, size + 0.02, actual_radius + 0.02);
+        float glowMask = smoothEdge(glowDist, 0.01) - mask;
+        float4 glow = float4(1.0, 1.0, 1.0, actual_glow_intensity * glowMask);
+        result = lerp(result, glow, glow.a);
+    }
+    
+    return result;
+}
+
+technique Draw
+{
+    pass
+    {
+        vertex_shader = VSDefault(v_in);
+        pixel_shader  = PSDefault(v_in);
+    }
+}

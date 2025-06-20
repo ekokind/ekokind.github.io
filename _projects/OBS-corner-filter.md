@@ -12,6 +12,8 @@ A professional-looking rounded corner effect for  OBS Studio streams and recordi
      alt="{{ page.image_alt }}" 
      style="max-width:500px; height:auto; display:block; margin: 1em auto;">
 
+### [📥 Link to Download Here](/theme/OBS-stuff/rounded_camera.effect)
+
 ## 🎯 Overview
 
 The **OBS Rounded Corners Shader Filter** is a custom HLSL shader that adds professional rounded corners, drop shadows, borders, and glow effects to any video source in OBS Studio. This filter is perfect for:
@@ -72,7 +74,7 @@ C:\Program Files\obs-studio\obs-plugins\64bit\
 
 ### Step 2: Download the Shader File
 
-1. Download `rounded_corners_glow.effect` [DL LINK HERE]()
+1. Download `rounded_corners_glow.effect` [Download here!](/theme/OBS-stuff/rounded_camera.effect)
 2. Save the file in an easily accessible location
 
 ```
