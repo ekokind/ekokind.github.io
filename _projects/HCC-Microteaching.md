@@ -23,7 +23,7 @@ This artifact is a microteaching lesson design for a course titled "Introduction
 ##### **Assessment Design**
 - **Constructive Alignment**: Assessment maps to specific learning objectives
 - **Formative Assessment Strategy**: Multiple low-stakes quizzes provide feedback before summative assessment
-- **Authentic Assessment**: Real-world scenario (designing for client "Sarah") with practical constraints
+- **Authentic Assessment**: Real-world scenario (designing for client "Sarah") with practical constraints 
 - **Clear Rubrics**: Detailed grading criteria with point allocations and performance levels
 
 ##### **Active Learning Integration**
