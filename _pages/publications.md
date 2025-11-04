@@ -12,15 +12,15 @@ title: Publications
 
 ### 2024
 **Kokinda, E.**, Moster, M., Rodeghero, P., Boyer, D. M. (2024, May), "Informal Learning Opportunities - Neurodiversity, Self-Efficacy, and Motivation for Programming Interest", to be presented at  International Conference on Computer Supported Education 2024 (CSEDU 24), Angers, France. 
-[Pre-print PDF](/theme/pdfs/CSEDU_24___Informal_Learning.pdf)
+[PDF](/theme/pdfs/CSEDU_24___Informal_Learning.pdf)
 
 **Kokinda, E.**, Rodeghero, P., Boyer, D. M. (2024, June), "WIP: Streamer and Viewer Interactions in Software and Game Development Live Streams ", to be presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 
-[Pre-print PDF](/theme/pdfs/2024_ASEE_Stream-Content-Analysis.pdf)
+[PDF](/theme/pdfs/2024_ASEE_Stream-Content-Analysis.pdf)
 
 **Kokinda, E.**, Moster, M., Rodeghero, P., Boyer, D. M. (2024, June), "Compiling Resilience: A Study on First-Generation Women Pursuing Computing Degrees", to be presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 
 pre-print coming soon
 
-Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summer Camp Communication via Discord", to appear in Proc. of the 46th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '24), Lisbon, Portugal, April 14-20, 2024. [Pre-print PDF](/theme/pdfs/2024_ICSE_SEET_DiscordExperienceReport.pdf)
+Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summer Camp Communication via Discord", to appear in Proc. of the 46th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '24), Lisbon, Portugal, April 14-20, 2024. [PDF](/theme/pdfs/2024_ICSE_SEET_DiscordExperienceReport.pdf)
 
 ### 2023
 **Kokinda, E.**, Rodeghero, P. "Streaming Software Development: Accountability, Community, and Learning", The Journal of Systems and Software (2023) [PDF](/theme/pdfs/Streaming_JSS_2023.pdf) |
@@ -30,7 +30,7 @@ Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summe
 [Presentation](/theme/pdfs/ICSE_2023_NEIR_Online-Recruitment.pptx.pdf)
 
 
-*Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023. [Paper PDF](/theme/pdfs/2023_CSCW_BothSidesoftheStory.pdf) | 
+*Moster, M., ***Kokinda, E.**, Rodeghero, P., McNeese, N. "Both Sides of the Story: Changing the "pre-existing culture of dread" surrounding student teamwork in breakout rooms", Proc. of the 2023 ACM on Human Computer Interaction, Computer Supported Cooperative Work (CSCW '23), Minneapolis, MN, USA, October 13-18, 2023. [PDF](/theme/pdfs/2023_CSCW_BothSidesoftheStory.pdf) | 
 [Presentation](/theme/pdfs/2023_CSCW_BothSidesPresentation.pdf)
 
 \* denotes co-first authorship
@@ -38,4 +38,4 @@ Moster, M., **Kokinda, E.**, Boyer, D. M., Rodeghero, P. "Experiences with Summe
 
 ### 2022
 Moster, M., , **Kokinda, E.**, Re, M., Dominic, J., Lehmann, J., Begel, A., Rodeghero, P. “ ‘Can You Help Me?’ An Experience Report of Teamwork in a Game Coding Camp for Autistic High School Students”, in Proc. of the 44th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET ‘22), Pittsburgh, PA, USA, May 21-29, 2022.
-[Paper PDF](/theme/pdfs/ICSE_SEET_2023.pdf)
+[PDF](/theme/pdfs/ICSE_SEET_2023.pdf)
